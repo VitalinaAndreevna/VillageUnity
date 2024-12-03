@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d80adef6675311f408381ac36206e07c
+timeCreated: 1439656232
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 43971
+  packageName: Tools and Logs
+  packageVersion: 2.0
+  assetPath: Assets/ToolsAndLogsSAMPLE/DemoScene.unity
+  uploadId: 114880
